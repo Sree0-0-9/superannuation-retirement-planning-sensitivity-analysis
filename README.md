@@ -34,7 +34,3 @@ Retirement planning requires understanding whether current savings contributions
 ## How To Use
 
 Open `superannuation_sensitivity_model.xlsx` in Microsoft Excel. The workbook includes dashboard, retirement capital, scenario, and sensitivity-analysis sheets.
-
-## Portfolio Note
-
-This is a public portfolio version prepared from academic analytics work. The raw report PDF is not included because it contains group-member personal details and academic submission text that is not suitable for a public GitHub portfolio.
