@@ -15,6 +15,16 @@ Retirement planning requires understanding whether current savings contributions
 - Sensitivity analysis for contribution rates, salary growth, returns, inflation, and portfolio allocation
 - Dashboard-style workbook presentation
 
+## Key Findings
+
+- Retirement readiness is highly sensitive to contribution rates, expected returns, inflation, and retirement spending assumptions.
+- Scenario and sensitivity analysis make financial planning assumptions more transparent than a single-point forecast.
+- Workbook-based modelling can communicate complex retirement planning logic in a format familiar to business users.
+
+## Business Recommendation
+
+Use sensitivity analysis to test whether retirement plans remain sustainable under adverse assumptions, and review contribution strategy or asset allocation when outcomes depend heavily on optimistic inputs.
+
 ## Tools Used
 
 - Microsoft Excel
