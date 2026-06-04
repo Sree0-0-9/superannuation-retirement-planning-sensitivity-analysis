@@ -37,8 +37,8 @@ Use sensitivity analysis to test whether retirement plans remain sustainable und
 
 ```text
 .
-├── superannuation_sensitivity_model.xlsx
-└── README.md
+|-- superannuation_sensitivity_model.xlsx
+`-- README.md
 ```
 
 ## How To Use
